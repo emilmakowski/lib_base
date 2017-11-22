@@ -1,0 +1,33 @@
+{
+  "name": "JS-lib",
+  "version": "1.0.0",
+  "description": "ECMAScript 262 library base.",
+  "main": "build/src/js/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emil Makowski",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "Javascript",
+    "ECMAScript 262",
+    "Library template",
+    "Base template"
+  ],
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-notify": "^3.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-size": "^2.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-webserver": "^0.9.1",
+    "streamqueue": "^1.1.1"
+  }
+}
