@@ -14,7 +14,7 @@ if (window.se.emilmakowski.package == undefined) window.se.emilmakowski.LIB_NAME
  *
  *  @author     Emil Makowski <emilmakowskii@gmail.com>
  *  @copyright  Copyright (c) 2016-2017
- *  @license    MIT
+ *  @license    MIT License
  *  @since      Nov 20, 2017
  *  @version    1.0.0
  */
