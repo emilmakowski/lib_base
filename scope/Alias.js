@@ -29,6 +29,6 @@ se.emilmakowski.LIB_NAME.scope.Alias = (function () {
 	 *
 	 *  @type {Object}
 	 */
-	window.Ajax = new se.emilmakowski.LIB_NAME.system.Main();
+	window.LIB_REF_NAME = new se.emilmakowski.LIB_NAME.system.Main();
 
 })();
